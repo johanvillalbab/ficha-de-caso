@@ -1,0 +1,43 @@
+/* Cambia aquí los colores y la tipografía de tu ficha. */
+:root {
+  --color-fondo: #f7f7f5;
+  --color-texto: #1d1d1f;
+  --color-acento: #4b3fd6;
+  --tipografia: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--color-fondo);
+  color: var(--color-texto);
+  font-family: var(--tipografia);
+  font-size: 1.0625rem;
+  line-height: 1.6;
+}
+
+.ficha {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 2rem 1.25rem 3rem;
+}
+
+.etiqueta {
+  margin: 0;
+  color: var(--color-acento);
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+h1 { margin: 0.25rem 0 0.5rem; font-size: clamp(1.75rem, 6vw, 2.5rem); line-height: 1.15; }
+h2 { margin: 2rem 0 0.5rem; font-size: 1.25rem; }
+.autoria { margin: 0; opacity: 0.75; }
+
+figure { margin: 2rem 0 0; }
+img { display: block; width: 100%; height: auto; border-radius: 12px; }
+figcaption { margin-top: 0.5rem; font-size: 0.875rem; opacity: 0.75; }
+
+footer { margin-top: 3rem; font-size: 0.875rem; opacity: 0.6; }

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-label="Pantalla de pago con tres pasos">
+  <rect width="800" height="450" fill="#e8e6fb"/>
+  <g font-family="system-ui, sans-serif" font-size="22" fill="#1d1d1f" text-anchor="middle">
+    <rect x="70" y="110" width="190" height="230" rx="16" fill="#fff"/><text x="165" y="235">1. Carrito</text>
+    <rect x="305" y="110" width="190" height="230" rx="16" fill="#fff"/><text x="400" y="235">2. Datos</text>
+    <rect x="540" y="110" width="190" height="230" rx="16" fill="#4b3fd6"/><text x="635" y="235" fill="#fff">3. Confirmar</text>
+  </g>
+</svg>
