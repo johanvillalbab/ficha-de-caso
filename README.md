@@ -73,7 +73,7 @@ Cada resultado del workshop deja un enlace que puedes compartir. Así sabes que 
 - `index.html`: la ficha de caso que vas a editar.
 - `estilos.css`: los estilos de la página. Puedes cambiar colores y tipografía en las primeras líneas.
 - `img/`: imágenes de la ficha. Puedes reemplazarlas por las tuyas.
-- `.github/PULL_REQUEST_TEMPLATE.md`: la descripción que aparece sola cuando abres un PR.
+- `.github/pull_request_template.md`: la descripción que aparece sola cuando abres un PR.
 - `ejercicios/`: un archivo por bloque del workshop, con variante para quien ve la grabación.
 - `guia-seguimiento.md`: qué hacer después del workshop, incluido tu primer cambio en el repositorio de tu equipo.
 

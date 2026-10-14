@@ -12,20 +12,14 @@ Estado al 14 de octubre de 2026. Contenido preparado por IS · Instructional Des
 3. **Ensayo del lunes 19 de octubre: sin OK.** Propuesto de unos 45 minutos, hora por definir. Ahí se valida la estimación de 15 minutos del trabajo previo y el tiempo de la primera publicación en Pages.
 4. **Dueño del repositorio plantilla y cuenta u organización donde vive:** sin decidir. El tablero de propuestas depende de esto.
 
-## Para IS · Full-stack Engineer (estructura de Pages)
+## Estructura de Pages (confirmada por IS · Full-stack Engineer, 14 oct)
 
-Propuesta actual del contenido, por confirmar:
-- Rama `main`, carpeta `/ (root)`, modo **Deploy from a branch**.
-- Sin dominio propio: URL `https://usuario.github.io/repositorio/`.
-- Sin paso de compilación: HTML y CSS planos, archivo `.nojekyll` para que Pages no procese con Jekyll.
-
-Preguntas:
-1. ¿Confirmas `main` + `/ (root)` con **Deploy from a branch**, o prefieres carpeta `/docs` o GitHub Actions?
-2. ¿Confirmas que no hay dominio propio y que todas las rutas internas son relativas (`estilos.css`, `img/portada.svg`) para funcionar bajo `/repositorio/`?
-3. ¿Confirmas que no hay paso de compilación y que dejamos `.nojekyll`?
-4. Una copia creada con **Use this template** no hereda la configuración de Pages. ¿Lo dejamos como paso manual del trabajo previo (paso 3 del README) o propones una forma de que se active sin pasos extra?
-5. ¿Quién marca la opción **Template repository** y prueba con una cuenta nueva que la copia publica, y para qué fecha (propuesta: viernes 16 de octubre)?
-6. Tablero: ¿plantilla de issue «Mi propuesta de cambio» en `.github/ISSUE_TEMPLATE/` del repositorio plantilla, o issue fijado? No está incluida hasta decidirlo.
+- Se publica con **Deploy from a branch**, desde `main` y en la raíz. No se usa `/docs` ni GitHub Actions.
+- No hay dominio propio y todas las rutas son relativas, porque el sitio vive bajo `/nombre-del-repo/`. Revisado: no hay rutas que empiecen con `/`.
+- No hay paso de compilación y se mantiene `.nojekyll`.
+- Activar Pages sigue siendo un paso manual de la preparación previa (paso 3 del README): Settings > Pages > main / root > Save, con la URL esperada. **Falta la captura** de ese paso, que se toma cuando exista el repositorio en GitHub.
+- Tablero de propuestas: un issue fijado, sin plantilla de issue. La plantilla de pull request está en `.github/pull_request_template.md`.
+- **Prueba (IS · Full-stack Engineer, viernes 16 de octubre):** activa **Template repository**, crea una copia con **Use this template**, activa Pages y verifica que la copia se publique y que las rutas funcionen. **Abierto:** la prueba necesita una cuenta distinta a la de Sho. Si no hay una, se prueba en la misma cuenta y queda anotado.
 
 ## Producción relacionada (fuera de este repositorio)
 
