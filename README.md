@@ -26,10 +26,6 @@ Regístrate en [github.com/signup](https://github.com/signup) y verifica tu corr
 
 Resultado esperado: entras a GitHub y ves tu nombre de usuario arriba a la derecha.
 
-### Opcional
-
-Mira la cápsula de 3 minutos sobre repositorio, commit, rama y PR. El vivo no depende de ella.
-
 ## En el vivo
 
 Durante la práctica guiada (4:05 a 4:45 p. m., hora de Colombia) creas tu repositorio desde esta plantilla ([ejercicio 2a](ejercicios/02-rescate-trabajo-previo.md)), haces un commit en una rama ([ejercicio 2b](ejercicios/03-rama-y-commit.md)) y abres tu PR ([ejercicio 2c](ejercicios/04-abrir-pull-request.md)). Publicar con GitHub Pages, revisar un PR ajeno e integrar tu PR quedan como opcionales y asíncronos, en la [guía de seguimiento](guia-seguimiento.md).
