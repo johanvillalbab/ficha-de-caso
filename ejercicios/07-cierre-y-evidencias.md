@@ -1,18 +1,18 @@
-# Bloque 7 · Cierre y formulario de salida (6:20–6:30 p. m.)
+# Bloque 4 · Margen y formulario de salida (4:55–4:59:30 p. m., hora de Colombia)
 
 ## Objetivo
-Registrar tus tres evidencias y saber qué sigue.
+Registrar el enlace de tu PR y saber qué sigue.
 
 ## Pasos
-1. Abre el formulario de salida y pega tu URL de Pages, el enlace de tu PR y el enlace de tu comentario de revisión.
-2. Revisa tu correo después del vivo: llegan la grabación y la [guía de seguimiento](../guia-seguimiento.md).
-3. Haz tus preguntas finales en el chat.
+1. Si todavía no lo hiciste, pega el enlace de tu PR en el formulario de salida. Si vas atrasado, usa estos minutos para terminar el bloque 2c.
+2. Después del vivo, sigue la [guía de seguimiento](../guia-seguimiento.md) para continuar a tu ritmo.
+3. Después vienen unos 30 segundos de cierre y termina la sesión a las 5:00 p. m.
 
 ## Resultado esperado
-El formulario confirma que recibió tus enlaces.
+El formulario confirma que recibió el enlace de tu PR.
 
 ## Enlace de evidencia
-Los tres enlaces juntos en el formulario de salida.
+El enlace de tu PR en el formulario de salida. Los enlaces opcionales (URL de Pages, comentario de revisión) puedes enviarlos después; el formulario acepta varios envíos.
 
-## Variante asíncrona (grabación)
-Mira el capítulo 7 y envía el formulario cuando completes los ejercicios. Puedes enviar los enlaces que tengas y volver a enviarlo después.
+## Variante asíncrona
+Envía el formulario cuando abras tu PR. Puedes volver a enviarlo cuando completes los ejercicios opcionales.

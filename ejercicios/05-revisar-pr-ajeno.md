@@ -1,21 +1,21 @@
-# Bloque 5 · Revisa el PR de otra persona (5:55–6:10 p. m.)
+# Opcional y asíncrono · Revisa el PR de otra persona
+
+Este ejercicio ya no se hace en el vivo de 1 hora. Lo haces después, a tu ritmo, con la sección 4 de la [guía de seguimiento](../guia-seguimiento.md).
 
 ## Objetivo
-Revisar el PR de otra persona con al menos un comentario concreto (resultado 4).
+Revisar el pull request (PR) de otra persona con al menos un comentario concreto (resultado 3, opcional).
 
 ## Pasos
-1. Observa cómo Sho revisa un PR del tablero.
-2. En el tablero, abre el PR que está justo antes del tuyo.
-3. Lee la descripción y entra a **Files changed** para ver el cambio.
-4. Deja un comentario concreto: qué funciona, qué cambiarías y por qué. Ejemplo: "El título nuevo se entiende rápido. Lo acortaría a una línea en celular".
-5. Para comentar una línea, pasa el cursor sobre ella y selecciona **+**. Para un comentario general, usa la caja de **Conversation**.
-6. Copia el enlace de tu comentario (menú **···** > **Copy link**).
+1. En el tablero de propuestas, abre un PR que todavía no tenga revisión.
+2. Lee la descripción y entra a **Files changed** para ver el cambio.
+3. Deja un comentario concreto: qué funciona, qué cambiarías y por qué. Ejemplo: "El título nuevo se entiende rápido. Lo acortaría a una línea en celular".
+4. Para comentar una línea, pasa el cursor sobre ella y selecciona **+**. Para un comentario general, usa la caja de **Conversation**.
+5. Copia el enlace de tu comentario (menú **···** > **Copy link**).
 
 ## Resultado esperado
 El PR ajeno muestra tu comentario con una observación y una sugerencia.
 
 ## Enlace de evidencia
-El enlace de tu comentario, en el formulario de salida.
+El enlace de tu comentario, en el formulario de evidencias. Puedes enviarlo después de la sesión.
 
-## Variante asíncrona (grabación)
-Mira el capítulo 5. Luego elige en el tablero cualquier PR que todavía no tenga revisión. Si no hay PR abiertos, revisa el PR de ejemplo que se muestra en la grabación.
+Si no hay PR abiertos en el tablero, vuelve a revisarlo más tarde: otras personas siguen agregando sus PR después de la sesión.

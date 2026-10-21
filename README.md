@@ -1,8 +1,8 @@
 # Mi ficha de caso: plantilla del workshop "GitHub para diseñadores"
 
-Este repositorio es la plantilla del workshop gratuito "GitHub para diseñadores" de Interface School (miércoles 21 de octubre de 2026, 5:00 a 6:30 p. m., hora de Colombia). Un repositorio es la carpeta de un proyecto que guarda sus archivos junto con el historial de cada cambio.
+Este repositorio es la plantilla del workshop gratuito "GitHub para diseñadores" de Interface School (jueves 5 de noviembre de 2026, de 4:00 a 5:00 p. m., hora de Colombia). Un repositorio es la carpeta de un proyecto que guarda sus archivos junto con el historial de cada cambio.
 
-Contiene una página web sencilla con una ficha de caso de diseño, lista para publicarse con GitHub Pages, el servicio de GitHub que convierte un repositorio en una página con URL pública. Durante el workshop vas a cambiar esa ficha, proponer el cambio y revisarlo con otra persona, igual que harías con un diseño en Figma.
+Contiene una página web sencilla con una ficha de caso de diseño, lista para publicarse con GitHub Pages, el servicio de GitHub que convierte un repositorio en una página con URL pública. Durante el workshop vas a cambiar esa ficha y proponer el cambio para que otra persona lo revise, igual que harías con un diseño en Figma.
 
 Todo se hace desde el navegador, en computador o celular. No necesitas instalar nada ni usar la terminal.
 
@@ -16,57 +16,35 @@ Todo se hace desde el navegador, en computador o celular. No necesitas instalar 
 - **Pull request (PR):** la propuesta de llevar los cambios de tu rama a `main`. Otra persona la revisa y comenta antes de integrarla.
 - **Merge:** integrar el PR aprobado en `main`.
 
-## Trabajo previo (antes del 21 de octubre)
+## Trabajo previo (antes del jueves 5 de noviembre)
 
-Te toma unos 15 minutos. Es una estimación que se valida en el ensayo técnico. Si no alcanzas a hacerlo, el bloque 2 del vivo te ayuda a ponerte al día.
+Solo necesitas una cuenta de GitHub. Es un paso corto; todavía no hay tiempo medido. Si no alcanzas, la creas al inicio de la práctica guiada con ayuda de Community.
 
-### Paso 1. Crea tu cuenta de GitHub
+### Crea tu cuenta de GitHub
 
 Regístrate en [github.com/signup](https://github.com/signup) y verifica tu correo.
 
 Resultado esperado: entras a GitHub y ves tu nombre de usuario arriba a la derecha.
 
-### Paso 2. Crea tu repositorio desde esta plantilla
-
-1. En esta página, selecciona el botón verde **Use this template** y luego **Create a new repository**.
-2. En **Repository name**, escribe un nombre corto en minúsculas, por ejemplo `ficha-de-caso`.
-3. Deja la opción **Public** marcada. GitHub Pages gratuito solo publica repositorios públicos.
-4. Selecciona **Create repository**.
-
-Resultado esperado: estás en `github.com/tu-usuario/ficha-de-caso` y ves los mismos archivos de esta plantilla.
-
-### Paso 3. Activa GitHub Pages
-
-1. En tu repositorio, entra a **Settings** (en celular puede estar dentro del menú **···**).
-2. En el menú lateral, selecciona **Pages**.
-3. En **Build and deployment**, en **Source**, elige **Deploy from a branch**.
-4. En **Branch**, elige `main` y la carpeta `/ (root)`. Selecciona **Save**.
-
-Resultado esperado: después de uno o dos minutos, al recargar la página aparece el aviso **Your site is live at** con tu URL.
-
-### Paso 4. Copia tu URL pública y envíala
-
-Tu URL tiene esta forma: `https://tu-usuario.github.io/ficha-de-caso/`. Ábrela y pégala en el formulario de evidencias del workshop (el enlace llega por correo).
-
-Resultado esperado: la URL muestra la ficha de caso con el título "Rediseño del flujo de pago".
-
-Si la URL muestra un error 404, espera dos minutos y recarga. Si sigue igual, revisa que en el paso 3 elegiste `main` y `/ (root)`.
-
 ### Opcional
 
 Mira la cápsula de 3 minutos sobre repositorio, commit, rama y PR. El vivo no depende de ella.
 
+## En el vivo
+
+Durante la práctica guiada (4:05 a 4:45 p. m., hora de Colombia) creas tu repositorio desde esta plantilla ([ejercicio 2a](ejercicios/02-rescate-trabajo-previo.md)), haces un commit en una rama ([ejercicio 2b](ejercicios/03-rama-y-commit.md)) y abres tu PR ([ejercicio 2c](ejercicios/04-abrir-pull-request.md)). Publicar con GitHub Pages, revisar un PR ajeno e integrar tu PR quedan como opcionales y asíncronos, en la [guía de seguimiento](guia-seguimiento.md).
+
 ## Cómo se produce la evidencia de cada resultado
 
-Cada resultado del workshop deja un enlace que puedes compartir. Así sabes que lo lograste, aunque veas la grabación.
+Cada resultado del workshop deja un enlace que puedes compartir. Así sabes que lo lograste, aunque no hayas podido estar en vivo. El mínimo de la sesión es el enlace de tu PR.
 
 | Resultado | Qué haces | Enlace de evidencia | Cuándo |
 | --- | --- | --- | --- |
-| 1. Publicar tu repositorio con GitHub Pages | Pasos 2 a 4 del trabajo previo | Tu URL `https://tu-usuario.github.io/ficha-de-caso/` en el formulario | Trabajo previo o bloque 2 |
-| 2. Proponer un cambio en una rama con un commit que dice qué cambió y por qué | [Ejercicio 3](ejercicios/03-rama-y-commit.md) | Historial de tu rama: `github.com/tu-usuario/ficha-de-caso/commits/nombre-de-tu-rama` | Bloque 3 |
-| 3. Abrir un PR que explica el cambio como decisión de diseño | [Ejercicio 4](ejercicios/04-abrir-pull-request.md) | Enlace del PR: `github.com/tu-usuario/ficha-de-caso/pull/1` en el formulario | Bloque 4 |
-| 4. Revisar el PR de otra persona con un comentario concreto | [Ejercicio 5](ejercicios/05-revisar-pr-ajeno.md) | Enlace a tu comentario en el PR ajeno (menú **···** del comentario, **Copy link**) | Bloque 5 o después, en asíncrono |
-| 5. Integrar tu PR y ver el cambio en tu URL | [Ejercicio 6](ejercicios/06-integrar-y-ver.md) | Tu misma URL de Pages, que ahora muestra la versión nueva | Bloque 6 o después, en asíncrono |
+| 1. Proponer un cambio en una rama, en tu repositorio creado desde la plantilla, con un commit que dice qué cambió y por qué | [Ejercicios 2a](ejercicios/02-rescate-trabajo-previo.md) y [2b](ejercicios/03-rama-y-commit.md) | Historial de tu rama: `github.com/tu-usuario/ficha-de-caso/commits/nombre-de-tu-rama` | En vivo, bloques 2a y 2b |
+| 2. Abrir un PR que explica el cambio como decisión de diseño | [Ejercicio 2c](ejercicios/04-abrir-pull-request.md) | Enlace del PR: `github.com/tu-usuario/ficha-de-caso/pull/1` en el formulario | En vivo, bloque 2c |
+| Opcional y asíncrono: publicar tu repositorio con GitHub Pages | Sección 3 de la [guía de seguimiento](guia-seguimiento.md) | Tu URL `https://tu-usuario.github.io/ficha-de-caso/` en el formulario | Después de la sesión |
+| 3. Opcional y asíncrono: revisar el PR de otra persona con un comentario concreto | [Ejercicio 5](ejercicios/05-revisar-pr-ajeno.md) | Enlace a tu comentario en el PR ajeno (menú **···** del comentario, **Copy link**) | Después de la sesión |
+| 4. Opcional y asíncrono: integrar tu PR (merge) y ver el cambio en tu URL | [Ejercicio 6](ejercicios/06-integrar-y-ver.md) | Tu misma URL de Pages, que ahora muestra la versión nueva | Después de la sesión, con Pages activo |
 
 ## Qué hay en este repositorio
 
@@ -74,9 +52,9 @@ Cada resultado del workshop deja un enlace que puedes compartir. Así sabes que 
 - `estilos.css`: los estilos de la página. Puedes cambiar colores y tipografía en las primeras líneas.
 - `img/`: imágenes de la ficha. Puedes reemplazarlas por las tuyas.
 - `.github/pull_request_template.md`: la descripción que aparece sola cuando abres un PR.
-- `ejercicios/`: un archivo por bloque del workshop, con variante para quien ve la grabación.
-- `guia-seguimiento.md`: qué hacer después del workshop, incluido tu primer cambio en el repositorio de tu equipo.
+- `ejercicios/`: un archivo por bloque del workshop, con una variante asíncrona para hacerlo a tu ritmo. Los ejercicios 5 y 6 son opcionales y asíncronos.
+- `guia-seguimiento.md`: qué hacer después del workshop: Pages, revisión de PR, merge y tu primer cambio en el repositorio de tu equipo.
 
-## Si ves la grabación
+## Si no pudiste estar en vivo
 
-La grabación tiene un capítulo por bloque. Cada ejercicio incluye una variante asíncrona para hacerlo a tu ritmo, y los enlaces de evidencia funcionan igual después del 21 de octubre.
+Sigue los ejercicios paso a paso. Cada uno incluye una variante asíncrona para hacerlo a tu ritmo, y los enlaces de evidencia funcionan igual después del jueves 5 de noviembre.
