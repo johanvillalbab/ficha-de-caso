@@ -21,4 +21,4 @@ Si todavía ves la versión anterior, espera otro minuto y recarga sin caché (e
 ## Enlace de evidencia
 Tu URL de Pages, ahora con el cambio, en el formulario de evidencias.
 
-Si nadie comentó tu PR, puedes integrarlo igual y pedir revisión en el tablero para tu siguiente cambio.
+Si nadie comentó tu PR, puedes integrarlo igual y pedir revisión en el [tablero](https://github.com/johanvillalbab/ficha-de-caso/issues/1) para tu siguiente cambio.

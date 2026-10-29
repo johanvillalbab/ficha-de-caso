@@ -6,7 +6,7 @@ Este ejercicio ya no se hace en el vivo de 1 hora. Lo haces después, a tu ritmo
 Revisar el pull request (PR) de otra persona con al menos un comentario concreto (resultado 3, opcional).
 
 ## Pasos
-1. En el tablero de propuestas, abre un PR que todavía no tenga revisión.
+1. En el [tablero de propuestas](https://github.com/johanvillalbab/ficha-de-caso/issues/1), abre un PR que todavía no tenga revisión.
 2. Lee la descripción y entra a **Files changed** para ver el cambio.
 3. Deja un comentario concreto: qué funciona, qué cambiarías y por qué. Ejemplo: "El título nuevo se entiende rápido. Lo acortaría a una línea en celular".
 4. Para comentar una línea, pasa el cursor sobre ella y selecciona **+**. Para un comentario general, usa la caja de **Conversation**.
