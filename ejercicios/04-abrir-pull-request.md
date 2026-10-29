@@ -11,7 +11,7 @@ Un pull request (PR) es la propuesta de llevar los cambios de tu rama a `main`. 
 3. Completa la descripción que trae la plantilla: problema, qué cambiaste, por qué, antes y después, y qué revisar.
 4. Para el antes y después, toma una captura de `index.html` en `main` (antes) y una de la vista previa del editor en tu rama (después). Arrástralas o pégalas en la tabla.
 5. Selecciona **Create pull request**.
-6. Copia el enlace del PR y pégalo en el formulario. Si quieres, agrégalo también al [tablero de propuestas](https://github.com/johanvillalbab/ficha-de-caso/issues/1): así otras personas pueden revisarlo en asíncrono.
+6. Copia el enlace del PR y pégalo en el [formulario de evidencias](https://www.interfaceschool.co/cursos/workshop-github/evidencia). Si quieres, agrégalo también al [tablero de propuestas](https://github.com/johanvillalbab/ficha-de-caso/issues/1): así otras personas pueden revisarlo en asíncrono.
 
 Los últimos minutos del bloque sirven para ponerte al día si vas atrasado.
 

@@ -6,7 +6,7 @@ En el vivo creaste tu repositorio desde la plantilla, hiciste un commit en una r
 
 ## 1. Termina lo que te faltó
 
-Si no alcanzaste a abrir tu PR en el vivo, repite los [ejercicios 3 y 4](ejercicios/) y pega el enlace del PR en el formulario de evidencias. El [tablero de propuestas](https://github.com/johanvillalbab/ficha-de-caso/issues/1) y esta plantilla siguen abiertos después del jueves 5 de noviembre.
+Si no alcanzaste a abrir tu PR en el vivo, repite los [ejercicios 3 y 4](ejercicios/) y pega el enlace del PR en el [formulario de evidencias](https://www.interfaceschool.co/cursos/workshop-github/evidencia). El [tablero de propuestas](https://github.com/johanvillalbab/ficha-de-caso/issues/1) y esta plantilla siguen abiertos después del jueves 5 de noviembre.
 
 ## 2. Recorrido por un repositorio real
 
@@ -31,7 +31,7 @@ GitHub Pages es el servicio de GitHub que convierte un repositorio en una págin
 3. En **Build and deployment**, en **Source**, elige **Deploy from a branch**.
 4. En **Branch**, elige `main` y la carpeta `/ (root)`. Selecciona **Save**.
 5. Después de uno o dos minutos, recarga. Aparece **Your site is live at** con tu URL, de la forma `https://tu-usuario.github.io/ficha-de-caso/`.
-6. Pega esa URL en el formulario de evidencias.
+6. Pega esa URL en el [formulario de evidencias](https://www.interfaceschool.co/cursos/workshop-github/evidencia).
 
 Si ves un error 404, espera dos minutos y recarga. Si sigue igual, revisa que elegiste `main` y `/ (root)`.
 
