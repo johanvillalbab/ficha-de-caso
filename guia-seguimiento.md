@@ -6,7 +6,7 @@ En el vivo creaste tu repositorio desde la plantilla, hiciste un commit en una r
 
 ## 1. Termina lo que te faltó
 
-Si no alcanzaste a abrir tu PR en el vivo, repite los [ejercicios 3 y 4](ejercicios/) y pega el enlace del PR en el formulario de evidencias. El tablero de propuestas y esta plantilla siguen abiertos después del jueves 5 de noviembre.
+Si no alcanzaste a abrir tu PR en el vivo, repite los [ejercicios 3 y 4](ejercicios/) y pega el enlace del PR en el formulario de evidencias. El [tablero de propuestas](https://github.com/johanvillalbab/ficha-de-caso/issues/1) y esta plantilla siguen abiertos después del jueves 5 de noviembre.
 
 ## 2. Recorrido por un repositorio real
 
@@ -37,7 +37,7 @@ Si ves un error 404, espera dos minutos y recarga. Si sigue igual, revisa que el
 
 ## 4. Revisa el PR de otra persona
 
-Sigue el [ejercicio 5](ejercicios/05-revisar-pr-ajeno.md). Abre el tablero de propuestas, elige el PR anterior al tuyo y deja al menos un comentario concreto: qué funciona, qué cambiarías y por qué. Si puedes, apóyalo con una captura. Copia el enlace de tu comentario (menú **···** del comentario, **Copy link**) y pégalo en el formulario.
+Sigue el [ejercicio 5](ejercicios/05-revisar-pr-ajeno.md). Abre el [tablero de propuestas](https://github.com/johanvillalbab/ficha-de-caso/issues/1), elige el PR anterior al tuyo y deja al menos un comentario concreto: qué funciona, qué cambiarías y por qué. Si puedes, apóyalo con una captura. Copia el enlace de tu comentario (menú **···** del comentario, **Copy link**) y pégalo en el formulario.
 
 ## 5. Responde, integra tu PR y mira el cambio
 
