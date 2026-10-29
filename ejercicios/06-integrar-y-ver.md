@@ -19,6 +19,6 @@ Tu URL muestra la versión nueva de la ficha.
 Si todavía ves la versión anterior, espera otro minuto y recarga sin caché (en celular, cierra y abre la pestaña). Puedes ver el avance en la pestaña **Actions** del repositorio.
 
 ## Enlace de evidencia
-Tu URL de Pages, ahora con el cambio, en el formulario de evidencias.
+Tu URL de Pages, ahora con el cambio, en el [formulario de evidencias](https://www.interfaceschool.co/cursos/workshop-github/evidencia).
 
 Si nadie comentó tu PR, puedes integrarlo igual y pedir revisión en el [tablero](https://github.com/johanvillalbab/ficha-de-caso/issues/1) para tu siguiente cambio.

@@ -32,7 +32,7 @@ Durante la práctica guiada (4:05 a 4:45 p. m., hora de Colombia) creas tu repos
 
 ## Cómo se produce la evidencia de cada resultado
 
-Cada resultado del workshop deja un enlace que puedes compartir. Así sabes que lo lograste, aunque no hayas podido estar en vivo. El mínimo de la sesión es el enlace de tu PR.
+Cada resultado del workshop deja un enlace que puedes compartir. Envía tus enlaces en el [formulario de evidencias](https://www.interfaceschool.co/cursos/workshop-github/evidencia), con el correo con el que te registraste al workshop. Así sabes que lo lograste, aunque no hayas podido estar en vivo. El mínimo de la sesión es el enlace de tu PR.
 
 | Resultado | Qué haces | Enlace de evidencia | Cuándo |
 | --- | --- | --- | --- |

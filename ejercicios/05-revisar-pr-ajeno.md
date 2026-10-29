@@ -16,6 +16,6 @@ Revisar el pull request (PR) de otra persona con al menos un comentario concreto
 El PR ajeno muestra tu comentario con una observación y una sugerencia.
 
 ## Enlace de evidencia
-El enlace de tu comentario, en el formulario de evidencias. Puedes enviarlo después de la sesión.
+El enlace de tu comentario, en el [formulario de evidencias](https://www.interfaceschool.co/cursos/workshop-github/evidencia). Puedes enviarlo después de la sesión.
 
 Si no hay PR abiertos en el tablero, vuelve a revisarlo más tarde: otras personas siguen agregando sus PR después de la sesión.
